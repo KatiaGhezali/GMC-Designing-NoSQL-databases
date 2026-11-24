@@ -1,0 +1,25 @@
+{
+  "_id": "product_001",
+  "name": "Wireless Bluetooth Headphones",
+  "slug": "wireless-bluetooth-headphones",
+  "description": "Wireless headphones with noise cancellation and long battery life.",
+  "category": {
+    "id": "category_electronics",
+    "name": "Electronics"
+  },
+  "brand": "SoundTech",
+  "price": {
+    "amount": 89.99,
+    "currency": "USD"
+  },
+  "stock": 250,
+  "attributes": {
+    "color": "Black",
+    "connectivity": "Bluetooth 5.3",
+    "batteryLifeHours": 30
+  },
+  "tags": ["wireless", "headphones", "audio", "bluetooth"],
+  "status": "active",
+  "createdAt": "2026-11-24T10:00:00Z",
+  "updatedAt": "2026-11-24T10:00:00Z"
+}

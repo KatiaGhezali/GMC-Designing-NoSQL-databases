@@ -1,0 +1,16 @@
+{
+  "_id": "user_001",
+  "firstName": "Sarah",
+  "lastName": "Benali",
+  "email": "sarah.benali@example.com",
+  "phone": "+213555123456",
+  "address": {
+    "street": "12 Rue Didouche Mourad",
+    "city": "Algiers",
+    "country": "Algeria",
+    "postalCode": "16000"
+  },
+  "accountStatus": "active",
+  "createdAt": "2026-11-24T10:00:00Z",
+  "updatedAt": "2026-11-24T10:00:00Z"
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "inventory_001",
+  "productId": "product_001",
+  "sku": "WBH-001",
+  "availableQuantity": 250,
+  "reservedQuantity": 0,
+  "warehouse": {
+    "warehouseId": "warehouse_001",
+    "name": "Algiers Central Warehouse",
+    "city": "Algiers",
+    "country": "Algeria"
+  },
+  "updatedAt": "2026-11-24T10:00:00Z"
+}

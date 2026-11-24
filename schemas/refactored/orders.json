@@ -1,0 +1,39 @@
+{
+  "_id": "order_001",
+  "orderNumber": "ORD-2026-0001",
+  "customerId": "user_001",
+  "customer": {
+    "firstName": "Sarah",
+    "lastName": "Benali",
+    "email": "sarah.benali@example.com"
+  },
+  "items": [
+    {
+      "productId": "product_001",
+      "productName": "Wireless Bluetooth Headphones",
+      "categoryId": "category_electronics",
+      "quantity": 2,
+      "unitPrice": 89.99,
+      "currency": "USD",
+      "subtotal": 179.98
+    }
+  ],
+  "total": {
+    "amount": 179.98,
+    "currency": "USD"
+  },
+  "payment": {
+    "method": "card",
+    "status": "paid",
+    "transactionId": "txn_10001"
+  },
+  "delivery": {
+    "status": "processing",
+    "trackingNumber": null,
+    "estimatedDelivery": "2026-11-29T00:00:00Z"
+  },
+  "orderStatus": "confirmed",
+  "createdAt": "2026-11-24T11:00:00Z",
+  "updatedAt": "2026-11-24T11:00:00Z",
+  "analyticsStatus": "pending"
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "product_001_2026-11-24",
+  "productId": "product_001",
+  "productName": "Wireless Bluetooth Headphones",
+  "categoryId": "category_electronics",
+  "date": "2026-11-24",
+  "currency": "USD",
+  "totalUnitsSold": 125,
+  "totalOrders": 87,
+  "grossRevenue": 11248.75,
+  "lastUpdated": "2026-11-24T23:00:00Z"
+}
